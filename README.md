@@ -23,8 +23,10 @@ Overall, my contributions consistently focused on faster decision enablement, de
 
 ✅ HOW (Detailed, Behavior + Mindset Version)
 
-I approached every task with an emphasis on engineering excellence, scalability, and alignment with long-term product vision — not just short-term implementation. I ensured that all components I built were modular, reusable, and aligned with industry-standard architectural practices.
+Throughout this year, I consciously followed the Barclays principles — Simpler, Better, and More Balanced in everything I built. I always focused on reducing unnecessary complexity, designing solutions that were clean and efficient, and making sure my approach was balanced between user experience, technical feasibility, and future scalability.
 
-I actively collaborated with backend engineers, UX teams, and product stakeholders, ensuring that technical feasibility, user experience, and business intent remained synchronized throughout the process. Even when UX was not yet available, I proactively contributed a working prototype instead of waiting for finalized inputs, showing ownership and initiative.
+I also made sure my work reflected the RISES principles — being responsible in decision-making, innovative in exploring better approaches, sustainable and efficient in the way I structured solutions, and secure by design. These principles helped me think beyond just immediate delivery and focus on building solutions that are long-lasting and enterprise-ready.
 
-I maintained a problem-solving and impact-first mindset, focusing on building solutions that reduce future maintenance efforts and speed up team velocity. Throughout this journey, I transitioned from a new graduate into a confident frontend engineer capable of thinking at a solution architecture level, while still remaining humble, open to feedback, and strongly focused on team success and customer value.
+In terms of execution, I collaborated closely with backend engineers, UX designers, and product stakeholders, ensuring smooth alignment across all dimensions. Even in ambiguous situations — like when UX designs weren’t yet finalized — I took proactive initiative to create early working prototypes, which helped leadership visualize the concept and make faster decisions.
+
+Overall, this year has helped me grow from a fresh graduate into a confident frontend engineer who not only writes code, but thinks about architecture, scalability, and real business impact, while always staying collaborative and open to learning.
